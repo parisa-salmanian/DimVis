@@ -5,14 +5,17 @@ DimVis, developed by the DataVis Group at Linnaeus University, is an advanced vi
 ---
 
 This work is based on the original work by Adrien Bibal, Antoine Clarinval, Bruno Dumas and Benoît Frénay available here:
+<br>
 [IXVC](https://www.sciencedirect.com/science/article/pii/S259000562100028X)
 
 ---
 
 **Author**
+<br>
 [Parisa Salmanian](https://www.linkedin.com/in/parisa-salmanian-a3a7811b2/)
 
 **Supervisors**
+<br>
 [Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/) ,[Dr. Angelos Chatzimparmpas](https://www.researchgate.net/profile/Angelos-Chatzimparmpas) and [Dr. Assoc. Prof. Ali Can KARACA](https://avesis.yildiz.edu.tr/17218)
 
 ---
