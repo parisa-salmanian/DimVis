@@ -1,6 +1,6 @@
 # DimVis: Interpreting Visual Clusters in Dimensionality Reduction With Explainable Boosting Machine
 
-DimVis, developed by the ISOVIS Group at Linnaeus University, is an interactive visualization tool for interpreting dimensionality reduction projections of high-dimensional data. It utilizes the supervised Explainable Boosting Machine](https://interpret.ml/docs/ebm.html) model for an in-depth understanding of data patterns and cluster formations. Specifically, the tool facilitates users in exploring individual or groups of data points based on single or pairs of features to reveal the underlying structures of the high-dimensional space.
+DimVis, developed by the ISOVIS Group at Linnaeus University, is an interactive visualization tool for interpreting dimensionality reduction projections of high-dimensional data. It utilizes the supervised [Explainable Boosting Machine](https://interpret.ml/docs/ebm.html) model for an in-depth understanding of data patterns and cluster formations. Specifically, the tool facilitates users in exploring individual or groups of data points based on single or pairs of features to reveal the underlying structures of the high-dimensional space.
 
 ---
 
