@@ -1,2 +1,1 @@
-# DimVis
-Interpreting Visual Clusters in Dimensionality Reduction With Explainable Boosting Machine
+# DimVis: Interpreting Visual Clusters in Dimensionality Reduction With Explainable Boosting Machine
