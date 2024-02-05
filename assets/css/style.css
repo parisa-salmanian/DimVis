@@ -1,0 +1,96 @@
+body {
+    font-size: 0.875rem;
+  }
+
+  .feather {
+    width: 16px;
+    height: 16px;
+    vertical-align: text-bottom;
+  }
+
+  .sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    /* Behind the navbar */
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+  }
+
+  .sidebar-sticky {
+    position: sticky;
+    top: 64px;
+    /* Height of navbar */
+    height: calc(100vh - 64px);
+    padding-top: .5rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* Scrollable contents if viewport is shorter than content. */
+  }
+
+  .sidebar .nav-link {
+    font-weight: 500;
+    color: #333;
+  }
+
+  .sidebar .nav-link .feather {
+    margin-right: 4px;
+    color: #727272;
+  }
+
+  .sidebar .nav-link.active {
+    color: #007bff;
+  }
+
+  .sidebar .nav-link:hover .feather,
+  .sidebar .nav-link.active .feather {
+    color: inherit;
+  }
+
+  .sidebar-heading {
+    font-size: .75rem;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 767.98px) {
+    .navbar-brand {
+      flex: 0 0 auto;
+      margin-left: 50px;
+    }
+  }
+
+  .nav-bg{
+    background-color: #dee2e6;
+  }
+
+  .navbar-brand{
+    margin-right: 25px;
+  }
+
+  .rc-slider-mark{display: none;}
+
+  .rc-slider-dot{
+    border: none;
+  }
+
+  #n_neighbors-slider, #min_dist-slider, #spread-slider, #dimensions-slider{
+    padding: 0px 25px 5px!important;
+  }
+
+.height-amount{
+  height: 560px!important;
+}
+
+  #umap-checkbox input{
+    margin-right: 4px;
+  }
+
+  .dash-debug-menu{
+    display: none!important;
+  }
+
+  .dash-debug-menu__outer--closed{
+    display: none!important;
+
+  }
