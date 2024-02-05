@@ -16,7 +16,7 @@ DimVis, developed by the ISOVIS Group at Linnaeus University, is an interactive 
 
 **Advisors**
 <br>
-[Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/) ,[Dr. Angelos Chatzimparmpas](https://angeloschatzimparmpas.com/), and [Dr. Ali Can Karaca](https://avesis.yildiz.edu.tr/17218)
+[Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/), [Dr. Angelos Chatzimparmpas](https://angeloschatzimparmpas.com/), and [Dr. Ali Can Karaca](https://avesis.yildiz.edu.tr/17218)
 
 ---
 
