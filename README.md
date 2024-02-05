@@ -13,5 +13,4 @@ This work is based on the original work by Adrien Bibal, Antoine Clarinval, Brun
 [Parisa Salmanian]([URL](https://www.linkedin.com/in/parisa-salmanian-a3a7811b2/)https://www.linkedin.com/in/parisa-salmanian-a3a7811b2/)
 
 **Supervisors**
- [Dr. Angelos Chatzimparmpas
-]([URL](https://www.researchgate.net/profile/Angelos-Chatzimparmpas)https://www.researchgate.net/profile/Angelos-Chatzimparmpas) and [Dr. Assoc. Prof. Ali Can KARACA]([URL](https://avesis.yildiz.edu.tr/17218)https://avesis.yildiz.edu.tr/17218)
+[Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/) [Dr. Angelos Chatzimparmpas]([URL](https://www.researchgate.net/profile/Angelos-Chatzimparmpas)https://www.researchgate.net/profile/Angelos-Chatzimparmpas) and [Dr. Assoc. Prof. Ali Can KARACA]([URL](https://avesis.yildiz.edu.tr/17218)https://avesis.yildiz.edu.tr/17218)
