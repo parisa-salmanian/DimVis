@@ -14,3 +14,7 @@ This work is based on the original work by Adrien Bibal, Antoine Clarinval, Brun
 
 **Supervisors**
 [Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/) ,[Dr. Angelos Chatzimparmpas](https://www.researchgate.net/profile/Angelos-Chatzimparmpas) and [Dr. Assoc. Prof. Ali Can KARACA](https://avesis.yildiz.edu.tr/17218)
+
+---
+
+*Linnaeus university, Faculty of Computer Science and Media Technology*
