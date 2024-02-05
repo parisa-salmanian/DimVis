@@ -1,12 +1,12 @@
 # DimVis: Interpreting Visual Clusters in Dimensionality Reduction With Explainable Boosting Machine
 
-DimVis, developed by the DataVis Group at Linnaeus University, is an advanced visualization tool aimed at interpreting complex data clusters derived from dimensionality reduction techniques. The tool leverages the Explainable Boosting Machine (EBM) for an in-depth understanding of data patterns and cluster formations. It enables users to interactively explore and manipulate data points and hyperparameters to unveil the underlying structure within high-dimensional datasets. The core objective of DimVis is to transform intricate data into clear, actionable insights, facilitating researchers and data analysts in making data-driven decisions. This project explores DimVis's capabilities and assesses its performance in providing accurate and comprehensive data interpretations.
+DimVis, developed by the ISOVIS Group at Linnaeus University, is an interactive visualization tool for interpreting dimensionality reduction projections of high-dimensional data. It utilizes the supervised Explainable Boosting Machine](https://interpret.ml/docs/ebm.html) model for an in-depth understanding of data patterns and cluster formations. Specifically, the tool facilitates users in exploring individual or groups of data points based on single or pairs of features to reveal the underlying structures of the high-dimensional space.
 
 ---
 
-This work is based on the original work by Adrien Bibal, Antoine Clarinval, Bruno Dumas and Benoît Frénay available here:
-<br>
-[IXVC](https://www.sciencedirect.com/science/article/pii/S259000562100028X)
+**Instructions**
+
+
 
 ---
 
@@ -14,10 +14,10 @@ This work is based on the original work by Adrien Bibal, Antoine Clarinval, Brun
 <br>
 [Parisa Salmanian](https://www.linkedin.com/in/parisa-salmanian-a3a7811b2/)
 
-**Supervisors**
+**Advisors**
 <br>
-[Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/) ,[Dr. Angelos Chatzimparmpas](https://www.researchgate.net/profile/Angelos-Chatzimparmpas) and [Dr. Assoc. Prof. Ali Can KARACA](https://avesis.yildiz.edu.tr/17218)
+[Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/) ,[Dr. Angelos Chatzimparmpas](https://angeloschatzimparmpas.com/), and [Dr. Ali Can Karaca](https://avesis.yildiz.edu.tr/17218)
 
 ---
 
-*Linnaeus university, Faculty of Computer Science and Media Technology*
+*Department of Computer Science and Media Technology, Faculty of Technology, Linnaeus University, Sweden*
