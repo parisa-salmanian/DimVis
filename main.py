@@ -43,13 +43,13 @@ app = dash.Dash(__name__, server=server, external_stylesheets=[
 # Load datasets
 
 breast_cancer_df = pd.read_csv(
-    r'C:/Users/Parisa/Desktop/EuroVis Paper Code/Datasets/breast_cancer.csv', header=None)
+    r'path to dataset/breast_cancer.csv', header=None)
 breast_cancer_df.columns = ['id', 'class', 'clumpthic', 'sizeun', 'shapeun',
                             'marg_adh', 'epithsize', 'barenuc', 'blandchr', 'nornuc', 'mitoses']
 
 
 indian_diabetes_df = pd.read_csv(
-    r'C:/Users/Parisa/Desktop/EuroVis Paper Code/Datasets/indian_diabetes.csv', header=None)
+    r'path to dataset/indian_diabetes.csv', header=None)
 indian_diabetes_df.columns = ['id', 'class', 'Pregnan', 'Glucose',
                               'BloodPr', 'SkinThick', 'Insulin', 'BMI', 'DPF', 'Age']
 
