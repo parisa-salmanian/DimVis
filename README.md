@@ -22,7 +22,7 @@ Ensure you have the necessary dependencies listed in the requirements installed 
 **Author**
 <br><br>
 [Parisa Salmanian](https://www.linkedin.com/in/parisa-salmanian-a3a7811b2/)
-
+<br><br>
 **Advisors**
 <br><br>
 [Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/), [Dr. Angelos Chatzimparmpas](https://angeloschatzimparmpas.com/), and [Dr. Ali Can Karaca](https://avesis.yildiz.edu.tr/17218)
