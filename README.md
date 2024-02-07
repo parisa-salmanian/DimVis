@@ -5,7 +5,15 @@ DimVis, developed by the ISOVIS Group at Linnaeus University, is an interactive 
 ---
 
 **Instructions**
+To run DimVis, please follow these steps in your terminal or command prompt:
 
+1. Launch Anaconda Navigator and open a PowerShell prompt.
+2. Activate the environment by running: conda activate your_environment
+3. Navigate to the application directory: cd the_directory
+4. Start the application: python main.py
+
+
+Ensure you have the necessary dependencies listed in the requirements installed in your_environment to avoid any issues.
 
 
 ---
