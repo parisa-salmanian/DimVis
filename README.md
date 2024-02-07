@@ -5,7 +5,7 @@ DimVis, developed by the ISOVIS Group at Linnaeus University, is an interactive 
 ---
 
 **Instructions**
-<br>
+<br><br>
 To run DimVis, please follow these steps in your terminal or command prompt:
 
 1. Launch Anaconda Navigator and open a PowerShell prompt.
@@ -20,11 +20,11 @@ Ensure you have the necessary dependencies listed in the requirements installed 
 ---
 
 **Author**
-<br>
+<br><br>
 [Parisa Salmanian](https://www.linkedin.com/in/parisa-salmanian-a3a7811b2/)
 
 **Advisors**
-<br>
+<br><br>
 [Dr. Rafael Messias Martins](https://lnu.se/en/staff/rafael.martins/), [Dr. Angelos Chatzimparmpas](https://angeloschatzimparmpas.com/), and [Dr. Ali Can Karaca](https://avesis.yildiz.edu.tr/17218)
 
 ---
